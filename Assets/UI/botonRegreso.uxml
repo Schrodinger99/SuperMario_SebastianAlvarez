@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/botonRegresoMario.uss?fileID=7433441132597879392&amp;guid=a44dc3fecec1c4fce8e908042435b2ef&amp;type=3#botonRegresoMario" />
+    <engine:VisualElement name="contenedor" style="flex-grow: 1; align-items: flex-start; align-self: flex-start; align-content: stretch; justify-content: flex-end; width: 218px;">
+        <engine:Button text="Regresar" name="regresar" class="boton" style="height: 52px; background-image: url(&quot;project://database/Assets/Buttons/PNG/22Button_Midl_Green.png?fileID=21300000&amp;guid=bf625ae84f769384fb0cd1cc52d14971&amp;type=3#22Button_Midl_Green&quot;); background-color: rgba(188, 188, 188, 0); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); margin-right: 0; margin-top: 0; margin-left: 0; width: 161px; justify-content: center; -unity-font-style: bold;" />
+    </engine:VisualElement>
+</engine:UXML>

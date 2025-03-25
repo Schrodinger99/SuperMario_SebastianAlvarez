@@ -1,0 +1,23 @@
+#unity-content-viewport {
+    overflow: hidden;
+}
+
+#unity-content-container {
+    position: relative;
+}
+
+.creditos {
+    color: rgb(233, 193, 61);
+    white-space: normal;
+    overflow: hidden;
+    width: 100%;
+    margin-top: 290px;
+}
+
+.creditosStyle {
+    color: rgb(233, 193, 61);
+    white-space: normal;
+    overflow: hidden;
+    width: 100%;
+    margin-top: 290px;
+}
